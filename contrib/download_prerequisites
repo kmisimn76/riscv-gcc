@@ -32,7 +32,7 @@ mpfr='mpfr-3.1.4.tar.bz2'
 mpc='mpc-1.0.3.tar.gz'
 isl='isl-0.18.tar.bz2'
 
-base_url='ftp://gcc.gnu.org/pub/gcc/infrastructure/'
+base_url='http://gcc.gnu.org/pub/gcc/infrastructure/'
 
 echo_archives() {
     echo "${gmp}"
